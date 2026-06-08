@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nature Methods Skills"
+  short_description: "Rewrite and audit reproducible Methods"
+  default_prompt: "Use $nature-methods-skills to rewrite and audit this Methods section for reproducibility and rigor."
