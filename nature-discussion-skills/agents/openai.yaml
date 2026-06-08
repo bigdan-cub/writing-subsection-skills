@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nature Discussion Skills"
+  short_description: "Rewrite and audit Nature-style Discussion"
+  default_prompt: "Use $nature-discussion-skills to rewrite and audit this Discussion section against the study findings."
