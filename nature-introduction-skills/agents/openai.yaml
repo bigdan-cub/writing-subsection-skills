@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nature Introduction Skills"
+  short_description: "Rewrite and audit Nature-style Introduction"
+  default_prompt: "Use $nature-introduction-skills to rewrite and audit this Introduction against the study findings and Results promise."
