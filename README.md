@@ -1,5 +1,7 @@
 # writing-subsection-skills
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 Codex skills for rewriting and auditing scientific manuscript subsections.
 
 ## Included skills
