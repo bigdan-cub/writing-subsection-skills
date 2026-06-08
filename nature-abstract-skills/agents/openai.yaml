@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nature Abstract Skills"
+  short_description: "Write and audit Science-style abstracts"
+  default_prompt: "Use $nature-abstract-skills to rewrite and audit this abstract against the study findings and word limit."
