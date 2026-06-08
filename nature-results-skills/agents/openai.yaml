@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nature Results Skills"
+  short_description: "Rewrite and audit Nature-style Results"
+  default_prompt: "Use $nature-results-skills to rewrite and audit this Results subsection against figure evidence."
